@@ -1,4 +1,4 @@
-# jaseytube1000.github.io
+# Arch Install
 Arch Linux Installation Guide (GNOME Boxes)
 
 (When installing Arch on GNOME Boxes, I encountered a problem where it kept looping in the beginning, but I was able to solve it by going into the EFI firmware settings to disable Secure Boot so that it would be able to choose the proper boot device. I did this by going into Device Manager to edit the "Attempt to Boot" setting.)
